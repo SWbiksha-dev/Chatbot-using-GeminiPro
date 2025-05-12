@@ -1,11 +1,1 @@
-A simple and interactive chatbot built with Gemini Pro API (Google AI) and Streamlit. This project demonstrates how to integrate Gemini's large language model into a modern web UI using Python.
-
---Features
-Chat with Gemini Pro via Streamlit UI
-
-Real-time streaming responses
-
-Easily customizable interface
-
-Supports local development and deployment
-
+Chatbot application built using the Gemini Pro API (Google AI) and Streamlit. It showcases how developers can seamlessly integrate the power of Gemini’s large language model into a modern, responsive web-based interface using Python. The chatbot allows users to engage in natural language conversations with Gemini Pro directly through a sleek and minimal Streamlit UI. It supports real-time streaming responses, providing a smooth and conversational experience. Additionally, the application is designed to be easily customizable, allowing developers to adapt the chatbot to different use cases or add new features effortlessly. With support for local development and quick deployment, this chatbot serves as a strong foundation for building AI-powered assistants, educational tools, support bots, and more.
